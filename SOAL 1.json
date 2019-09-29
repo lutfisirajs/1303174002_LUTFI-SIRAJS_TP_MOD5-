@@ -1,0 +1,20 @@
+{
+    "home" :  {
+            "nama" : "Lutfi Sirajs Demmangago",
+            "nim"  : "1303174002",
+            "kelas": "IT-41-02"
+         },
+
+    "about" : {
+            "deskripsi" : "orang biasa yang kebetulan singgah di Bumi"
+        },
+
+    "hobbies" : ["Silaturahmi","Main Game","Sepak Bola"],
+    
+    "Skills" : ["Desain Grafis","Videografi","Photografi"],
+
+    "education" : ["TK TONASA 2", "SD TONASA 2","SMP TONASA 2","SMK TELKOM","TELKOM UNIVERSITY"],
+
+    "experience" : ["PKL DI TSEL", "JUARA 3 DESAIN GRAFIS","JUARA 4 DESAIN WEB"]
+    
+}
